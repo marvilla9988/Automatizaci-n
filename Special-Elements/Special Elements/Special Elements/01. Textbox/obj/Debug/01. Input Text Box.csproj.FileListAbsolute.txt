@@ -1,0 +1,14 @@
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\bin\Debug\ConsoleApplication1.exe.config
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\bin\Debug\ConsoleApplication1.exe
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\bin\Debug\ConsoleApplication1.pdb
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\bin\Debug\WebDriver.dll
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\bin\Debug\WebDriver.Support.dll
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\bin\Debug\WebDriver.xml
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\bin\Debug\WebDriver.Support.xml
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\obj\Debug\01. Input Text Box.csproj.CoreCompileInputs.cache
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\obj\Debug\01. Input Text Box.csproj.CopyComplete
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\obj\Debug\ConsoleApplication1.exe
+C:\Automatización\Special-Elements\Special Elements\Special Elements\01. Textbox\obj\Debug\ConsoleApplication1.pdb
